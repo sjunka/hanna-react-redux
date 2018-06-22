@@ -1,5 +1,6 @@
-#Shopping Cart Checkout Summary Project
-Exercise for the position of FRONT-END Web Developer with React
+# Shopping Cart Checkout Summary Project
+
+### Exercise for the position of FRONT-END Web Developer with React
 
 ## Goal: Build a "Purchase summary" user inteface using **React**. Time is limited 
 
