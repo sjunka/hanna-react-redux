@@ -11,3 +11,17 @@
 .purchased-card > .show-grid {
     padding-bottom: 1.5em;
 }
+
+.item-details-buttom:focus {
+    outline: none;
+}
+
+.price-stripe {
+    text-decoration-line: line-through;
+    color: gray;
+}
+
+.promo-code-button:focus {
+    outline: none;
+    
+}
